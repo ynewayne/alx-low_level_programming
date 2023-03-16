@@ -16,7 +16,7 @@ char *ptr1;
 char *old_ptr;
 unsigned int i;
 
-if (new_size == old_size
+if (new_size == old_size)
 return (ptr);
 if (new_size == 0 && ptr)
 {
